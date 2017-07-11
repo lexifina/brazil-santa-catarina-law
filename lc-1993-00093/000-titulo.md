@@ -1,0 +1,3 @@
+# LEI COMPLEMENTAR Nº 93, de 06 de agosto de 1993
+Altera a Lei Complementar nº 80, de 10 de março de 1993, que estabelece novo critério para fixação dos valores de vencimento e soldo para servidores ocupantes de cargos de provimento efetivo, pertencentes ao Grupo Segurança Pública e a Lei Complementar nº 81, de 10 de março de 1993, que estabelece diretrizes para a elaboração, implantação e administração do Plano de Cargos e Vencimentos do Pessoal Civil da Administração Direta, Autarquias e Fundações do Poder Executivo e dá outras providências.
+Faço saber a todos os habitantes deste Estado que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei Complementar:
