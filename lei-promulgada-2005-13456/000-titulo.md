@@ -1,0 +1,3 @@
+# LEI PROMULGADA Nº 13.456, de 06 de setembro de 2005
+Concede aos membros do Magistério Público Estadual, ativos e inativos, pertencentes ao Quadro de Pessoal da Secretaria de Estado da Educação, Ciência e Tecnologia, antecipação do valor do vencimento e estabelece outras providências.
+Faço saber que o Governador do Estado, de acordo com o art. 51 da Constituição Estadual, adotou a Medida Provisória n. 118, de 15 de agosto de 2005, e eu, Deputado Julio Garcia, Presidente da Assembléia Legislativa do Estado de Santa Catarina, para os efeitos do disposto no § 8º do art. 311 do Regimento Interno, promulgo a seguinte Lei:
