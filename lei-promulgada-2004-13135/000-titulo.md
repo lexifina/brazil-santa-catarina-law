@@ -1,0 +1,3 @@
+# LEI PROMULGADA Nº 13.135, de 11 de novembro de 2004
+Concede abono aos servidores ativos ocupantes do cargo de Professor do Quadro do Magistério Público Estadual e aos Professores Admitidos em Caráter Temporário da Secretaria de Estado da Educação e Inovação.
+Faço saber que o Governador do Estado, de acordo com o art. 51 da Constituição Estadual, adotou a Medida Provisória nº 113, de 15 de outubro de 2004, e eu, Deputado Volnei Morastoni, Presidente da Assembléia Legislativa do Estado de Santa Catarina, para os efeitos do disposto no § 8º do art. 311 do Regimento Interno, promulgo a seguinte Lei:
