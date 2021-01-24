@@ -1,0 +1,3 @@
+# LEI PROMULGADA Nº 13.723, de 05 de abril de 2006
+Concede aos servidores públicos estaduais, ativos e inativos, pertencentes ao Quadro de Pessoal da Fundação Universidade do Estado de Santa Catarina - UDESC antecipação do valor do vencimento e estabelece outras providências.
+Faço saber que o Governador do Estado, de acordo com o art. 51 da Constituição Estadual, adotou a Medida Provisória n. 124, de 30 de março de 2006, e eu, Deputado Julio Garcia, Presidente da Assembléia Legislativa do Estado de Santa Catarina, para os efeitos do disposto no § 8º do art. 311 do Regimento Interno, promulgo a seguinte Lei:
