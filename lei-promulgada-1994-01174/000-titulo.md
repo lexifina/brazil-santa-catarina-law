@@ -1,0 +1,2 @@
+# LEI PROMULGADA Nº 1.174, de 19 de setembro de 1994
+O Presidente da Assembléia Legislativa, no uso das atribuições, que lhe confere o art. 54, § 7º, da Constituição do Estado de Santa Catarina, promulga a presente Lei, incluindo na Lei nº 9.645, de 11 de julho de 1994 que "Cria cargos de provimento em comissão e funções de confiança na estrutura organizacional da Secretaria de Estado da Justiça e Administração, altera denominação de cargos de provimento em comissão e dá outras providências", o art. 3º, cujo veto foi rejeitado pelo Plenário deste Poder:
