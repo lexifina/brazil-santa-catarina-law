@@ -1,0 +1,3 @@
+# LEI Nº 18.002, DE 24 DE SETEMBRO DE 2020
+Dispõe sobre a destinação de recursos em caráter emergencial aos trabalhadores e às pessoas jurídicas do setor cultural catarinense, com o objetivo de mitigar os prejuízos econômicos advindos da emergência de saúde pública de importância internacional decorrente do coronavírus responsável pelo surto de 2019.
+O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SANTA CATARINA Faço saber que o Governador do Estado de Santa Catarina, de acordo com o art. 51 da Constituição do Estado, adotou a Medida Provisória nº 229, de 13 de agosto de 2020, e, nos termos do disposto no § 8º do art. 318 do Regimento Interno, eu promulgo a seguinte Lei:
