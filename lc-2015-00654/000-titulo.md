@@ -1,0 +1,3 @@
+# LEI COMPLEMENTAR N° 654, DE 12 DE AGOSTO DE 2015
+Revoga dispositivo da Resolução nº 002, de 2006, que dispõe sobre o Quadro de Pessoal, o Plano de Carreira, os cargos, as classes de cargos, as funções de confiança e as atribuições dos servidores da Alesc, para o fim de compatibilizar aquela Resolução com a Resolução nº 001, de 2006, que dispõe sobre a organização administrativa deste Poder, ambas convalidadas pela Lei Complementar nº 642, de 2015.
+O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SANTA CATARINA, nos termos do art. 54, § 3º da Constituição do Estado, promulga a presente Lei Complementar:
