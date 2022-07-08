@@ -1,0 +1,4 @@
+# LEI Nº 18.132, DE 2 DE JUNHO DE 2021
+Autoriza o Poder Executivo a conceder auxílio emergencial, na forma de subsídio integral da taxa de juros remuneratórios de operações de crédito, a microempreendedores individuais (MEI) e a micros e pequenos empreendedores com sede no Estado, para enfrentamento dos prejuízos econômicos e sociais advindos da emergência de saúde pública de importância internacional decorrente do coronavírus responsável pelo surto de 2019, e estabelece outras providências.
+O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SANTA CATARINA
+Faço saber que o Governador do Estado de Santa Catarina, de acordo com o art. 51 da Constituição do Estado, adotou a Medida Provisória nº 236, de 29 de março de 2021, e, nos termos do disposto no § 8º do art. 318 do Regimento Interno, eu promulgo a seguinte Lei:
