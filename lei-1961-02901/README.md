@@ -1,0 +1,13 @@
+# Lei nº 2.901, de 13 de novembro de 1961
+
+Lei 2901/1961 · 1 versions, from 2022-05-28 (latest in force: 2022-05-28) · <http://leis.alesc.sc.gov.br/html/1961/2901_1961_Lei.html>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Art. 1° | [art-0001.md](art-0001.md) | 0 |  |
+| Art. 2° | [art-0002.md](art-0002.md) | 0 |  |
+| Art. 3° | [art-0003.md](art-0003.md) | 0 |  |
+| Art.4° | [art-0004.md](art-0004.md) | 0 |  |
+| Art. 5° | [art-0005.md](art-0005.md) | 0 |  |
+| Art.6° | [art-0006.md](art-0006.md) | 0 |  |

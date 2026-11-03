@@ -8,8 +8,8 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 
 | Folder | Act | Versions |
 | --- | --- | ---: |
-| `lei-<year>-<number>/`, `lei-promulgada-...` | 500 Leis (1947-2019) | 1 each |
-| `lc-<year>-<number>/`, `lc-promulgada-...` | 0 Leis Complementares | 1 each |
+| `lei-<year>-<number>/`, `lei-promulgada-...` | 9791 Leis (1947-2025) | 1 each |
+| `lc-<year>-<number>/`, `lc-promulgada-...` | 709 Leis Complementares | 1 each |
 
 Every law still in force is given once: **as enacted**, credited to itself, when ALESC's page lists no later change; otherwise as **the text in force** on the page (struck earlier wordings and alteration notes left out), credited to ALESC as the oldest version available. Earlier wordings are to be added later. Laws are added in parts of 500; the Constituição, the Emendas Constitucionais and decrees are not included yet. LexML Brasil (Senado Federal), the national legal-information network, lists the same ALESC laws (urn:lex:br;santa.catarina:estadual:...) and points to these pages.
 

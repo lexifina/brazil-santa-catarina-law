@@ -1,0 +1,9 @@
+# Lei Complementar nº 864, de 7 de janeiro de 2025
+
+LC 864/2025 · 1 versions, from 2025-04-13 (latest in force: 2025-04-13) · <https://leis.alesc.sc.gov.br/html/2025/864_2025_lei_complementar.html>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Art. 1º | [art-0001.md](art-0001.md) | 0 |  |
+| Art. 2º | [art-0002.md](art-0002.md) | 0 |  |

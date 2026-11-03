@@ -1,0 +1,9 @@
+# Lei Complementar nº 834, de 16 de outubro de 2023
+
+LC 834/2023 · 1 versions, from 2025-04-14 (latest in force: 2025-04-14) · <https://leis.alesc.sc.gov.br/html/2023/834_2023_lei_complementar.html>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Art. 1º | [art-0001.md](art-0001.md) | 0 |  |
+| Art. 2º | [art-0002.md](art-0002.md) | 0 |  |
