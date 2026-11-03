@@ -1,0 +1,8 @@
+{
+  "path": "br-sc",
+  "code": "BR-SC",
+  "name": "Santa Catarina",
+  "level": "state",
+  "repo": "https://github.com/lexifina/brazil-santa-catarina-law",
+  "build": "built: 500 Leis and 0 Leis Complementares of Santa Catarina as enacted, from ALESC's pages (Internet Archive copies), listed in LexML Brasil"
+}

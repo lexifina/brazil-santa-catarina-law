@@ -1,0 +1,12 @@
+Law texts
+
+The texts in this repository are laws of the State of Santa Catarina (Estado de Santa Catarina) as published by the Assembleia Legislativa do Estado de Santa Catarina (ALESC) (https://leis.alesc.sc.gov.br).
+
+- Copyright: "Não são objeto de proteção como direitos autorais de que trata esta Lei: [...] IV - os textos de tratados ou convenções, leis, decretos, regulamentos, decisões judiciais e demais atos oficiais" (Lei 9.610/1998, art. 8, IV).
+- ALESC's site could not be reached from our machine; the Internet Archive's robots.txt answers 404. LexML Brasil is a Senado Federal service whose usage policy allows reuse with the source cited.
+- The texts are not the official version: only the Diário Oficial do Estado is authoritative.
+
+Attribution: Fonte: ALESC, Legislação Estadual (leis.alesc.sc.gov.br), through Internet Archive copies, Assembleia Legislativa do Estado de Santa Catarina (ALESC), https://leis.alesc.sc.gov.br.
+
+Everything else (the git history's structure, the tools and the documentation): CC0 1.0 Universal,
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
